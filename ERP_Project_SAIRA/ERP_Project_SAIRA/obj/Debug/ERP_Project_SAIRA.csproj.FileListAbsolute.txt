@@ -1,0 +1,52 @@
+c:\users\ali\documents\visual studio 2013\Projects\ERP_Project_SAIRA\ERP_Project_SAIRA\bin\Debug\ERP_Project_SAIRA.exe.config
+c:\users\ali\documents\visual studio 2013\Projects\ERP_Project_SAIRA\ERP_Project_SAIRA\bin\Debug\ERP_Project_SAIRA.exe
+c:\users\ali\documents\visual studio 2013\Projects\ERP_Project_SAIRA\ERP_Project_SAIRA\bin\Debug\ERP_Project_SAIRA.pdb
+c:\users\ali\documents\visual studio 2013\Projects\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2013\Projects\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.myconnection.resources
+c:\users\ali\documents\visual studio 2013\Projects\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2013\Projects\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2013\Projects\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.exe
+c:\users\ali\documents\visual studio 2013\Projects\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.pdb
+C:\Users\Ali\Documents\Visual Studio 2013\Projects\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.custermer.resources
+C:\Users\Ali\Documents\Visual Studio 2013\Projects\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Cust.resources
+C:\Users\Ali\Documents\Visual Studio 2013\Projects\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Approval.resources
+C:\Users\Ali\Documents\Visual Studio 2013\Projects\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Vendor.resources
+C:\Users\Ali\Documents\Visual Studio 2013\Projects\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Vendor_approva.resources
+C:\Users\Ali\Documents\Visual Studio 2013\Projects\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Purchase_Order.resources
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\bin\Debug\ERP_Project_SAIRA.exe.config
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.exe
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.pdb
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\bin\Debug\ERP_Project_SAIRA.exe
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\bin\Debug\ERP_Project_SAIRA.pdb
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Approval.resources
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Cust.resources
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.custermer.resources
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.myconnection.resources
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Properties.Resources.resources
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Purchase_Order.resources
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Vendor.resources
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Vendor_approva.resources
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.csproj.GenerateResource.Cache
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.PO.resources
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.GRN1.resources
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.invoce.resources
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Login.resources
+C:\Users\Ali\Desktop\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Menu.resources
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\bin\Debug\ERP_Project_SAIRA.exe.config
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.exe
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.csprojResolveAssemblyReference.cache
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Approval.resources
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Cust.resources
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.custermer.resources
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.GRN1.resources
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.invoce.resources
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Login.resources
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Menu.resources
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.myconnection.resources
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.PO.resources
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Properties.Resources.resources
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Purchase_Order.resources
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Vendor.resources
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.Vendor_approva.resources
+E:\ERP_Project_SAIRA\ERP_Project_SAIRA\obj\Debug\ERP_Project_SAIRA.csproj.GenerateResource.Cache
